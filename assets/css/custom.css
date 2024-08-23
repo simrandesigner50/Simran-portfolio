@@ -1,0 +1,16 @@
+
+@media screen and (max-width: 767px) {
+	
+.h1.vlt-large-heading, h1.vlt-large-heading {
+    font-size: 3.5rem;
+}
+
+.vlt-experience-block__number {
+	font-size: 7.5rem;
+}
+
+.vlt-project-title {
+	font-size: 2rem;
+}
+
+}
